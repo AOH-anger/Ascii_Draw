@@ -7,7 +7,7 @@
 ![](img/show2.png)
 
 ##流程图
-![](img/lc.png)
+![](img/cc.png)
 
 ##使用到的模块
 ###1. PIL之Image
